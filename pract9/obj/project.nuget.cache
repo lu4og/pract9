@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MTKL/VRWBJxQkIzkhQ4NVpokr7uMqWGTzZal17XX3phfGwbyvAbKkaWMfEXxqwxuLROYdjSNYhh3DQEhyJ9dtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lu4lu\\source\\repos\\pract9\\pract9\\pract9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lu4lu\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\pract9.csproj.AssemblyReference.cache
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\pract9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\pract9.AssemblyInfoInputs.cache
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\pract9.AssemblyInfo.cs
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\pract9.csproj.CoreCompileInputs.cache
+C:\Users\lu4lu\source\repos\pract9\pract9\bin\Debug\net6.0\pract9.exe
+C:\Users\lu4lu\source\repos\pract9\pract9\bin\Debug\net6.0\pract9.deps.json
+C:\Users\lu4lu\source\repos\pract9\pract9\bin\Debug\net6.0\pract9.runtimeconfig.json
+C:\Users\lu4lu\source\repos\pract9\pract9\bin\Debug\net6.0\pract9.dll
+C:\Users\lu4lu\source\repos\pract9\pract9\bin\Debug\net6.0\pract9.pdb
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\pract9.dll
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\refint\pract9.dll
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\pract9.pdb
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\pract9.genruntimeconfig.cache
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\ref\pract9.dll
+C:\Users\lu4lu\source\repos\pract9\pract9\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lu4lu\source\repos\pract9\pract9\obj\Debug\net6.0\pract9.csproj.CopyComplete
